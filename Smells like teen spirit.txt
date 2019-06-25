@@ -3,7 +3,7 @@ It's fun to lose and to pretend
 She's over-bored and self-assured
 Oh no, I know a dirty word
 Hello, hello, hello, how low = first tracked changes**
-Hello, hello, hello, how low
+Hello, hello, hello, how low = second tracked changes&&
 Hello, hello, hello, how low
 Hello, hello, hello
 With the lights out, it's less dangerous
